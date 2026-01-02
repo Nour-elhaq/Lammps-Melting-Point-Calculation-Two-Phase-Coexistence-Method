@@ -2,3 +2,5 @@
 *.mod linguist-language=LAMMPS
 in.* linguist-language=LAMMPS
 *.lammps linguist-language=LAMMPS
+git push
+
