@@ -2,5 +2,7 @@
 *.mod linguist-language=LAMMPS
 in.* linguist-language=LAMMPS
 *.lammps linguist-language=LAMMPS
+git commit -m "Map to LAMMPS for stats"
 git push
+
 
