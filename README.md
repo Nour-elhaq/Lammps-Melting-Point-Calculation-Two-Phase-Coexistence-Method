@@ -97,6 +97,7 @@ pair_coeff      * * Al99.eam.alloy Al
 ## 📜 Citation
 
 If you use this method in your research, please consider citing the foundational papers on coexistence methods:
+[![DOI](https://zenodo.org/badge/1126799476.svg)](https://doi.org/10.5281/zenodo.18133056)
 
 
 ---
